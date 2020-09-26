@@ -1,0 +1,463 @@
+Country Origin Name,Country Dest Name,1960 [1960],1970 [1970],1980 [1980],1990 [1990],2000 [2000],Include,L_Or,L_Des,,
+Syrian Arab Republic,United Arab Emirates,41,1223,13354,24778,42573,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Qatar,165,1443,4224,10395,7958,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Oman,118,170,396,1148,1691,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Switzerland,247,281,172,283,1090,TRUE,Arabic,German,TRUE,TRUE
+Syrian Arab Republic,Afghanistan,0,3,0,15,1,FALSE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Australia,218,455,3080,5170,6614,TRUE,Arabic,English,TRUE,TRUE
+Syrian Arab Republic,Canada,162,2133,4189,7039,15586,TRUE,Arabic,English,TRUE,TRUE
+Syrian Arab Republic,Germany,1084,3462,10142,8318,26114,TRUE,Arabic,German,TRUE,TRUE
+Syrian Arab Republic,United Kingdom,421,96,5426,2294,5646,TRUE,Arabic,English,TRUE,TRUE
+Syrian Arab Republic,United States,17521,19371,24145,40501,55753,TRUE,Arabic,English,TRUE,TRUE
+Syrian Arab Republic,Iraq,5495,4690,4288,5214,1164,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Jordan,1374,2254,7282,21903,34663,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Kuwait,2105,32500,75353,107628,101634,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Lebanon,173,270,286,6226,5325,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Malaysia,0,12,37,118,179,FALSE,Arabic,Malay,TRUE,FALSE
+Syrian Arab Republic,Russian Federation,0,0,0,0,676,FALSE,Arabic,Russian,TRUE,FALSE
+Syrian Arab Republic,Saudi Arabia,1300,7324,37349,97307,105266,TRUE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Sudan,172,165,211,78,94,FALSE,Arabic,Arabic,FALSE,FALSE
+Syrian Arab Republic,Turkey,6044,5290,4017,5177,5418,TRUE,Arabic,Turkish,TRUE,TRUE
+Syrian Arab Republic,France,3290,329,9568,12930,5550,TRUE,Arabic,French,TRUE,TRUE
+Syrian Arab Republic,Japan,0,3,7,83,135,FALSE,Arabic,Japanese,TRUE,FALSE
+Syrian Arab Republic,Singapore,16,7,17,42,314,FALSE,Arabic,English,TRUE,FALSE
+India,United Arab Emirates,721,21584,235611,437179,751142,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Qatar,116,1696,16667,33750,52788,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Oman,21845,31427,73080,211955,312053,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Switzerland,570,671,396,1462,6419,TRUE,Hindi,German,TRUE,TRUE
+India,Afghanistan,21958,26242,5639,3352,6904,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Australia,13527,18165,40170,59297,94110,TRUE,Hindi,English,TRUE,TRUE
+India,Canada,8781,45737,84397,149951,313999,TRUE,Hindi,English,TRUE,TRUE
+India,Germany,3379,7573,29642,21616,35486,TRUE,Hindi,German,TRUE,TRUE
+India,United Kingdom,190722,336567,401255,429885,524796,TRUE,Hindi,English,TRUE,TRUE
+India,United States,13910,69997,227684,494290,1041320,TRUE,Hindi,English,TRUE,TRUE
+India,Iraq,1298,865,587,484,61,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Jordan,39,61,194,593,3475,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Kuwait,4082,21896,59060,106856,100904,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Lebanon,121,317,1127,20213,35326,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Malaysia,12196,150723,98724,32931,67701,TRUE,Hindi,Malay,TRUE,TRUE
+India,Russian Federation,0,0,0,0,26,FALSE,Hindi,Russian,TRUE,FALSE
+India,Saudi Arabia,12449,70109,357516,931457,1007649,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Sudan,1847,1762,2261,4465,5386,TRUE,Hindi,Arabic,TRUE,TRUE
+India,Turkey,318,579,691,1251,567,TRUE,Hindi,Turkish,TRUE,TRUE
+India,France,80752,8074,15718,23455,136233,TRUE,Hindi,French,TRUE,TRUE
+India,Japan,47,768,1698,3220,7518,TRUE,Hindi,Japanese,TRUE,TRUE
+India,Singapore,66510,50875,42266,43696,105187,TRUE,Hindi,English,TRUE,TRUE
+Bangladesh,United Arab Emirates,59,1771,19327,35862,61616,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Qatar,6,92,1428,10724,19135,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Oman,7166,10309,23972,69525,102360,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Switzerland,143,115,100,235,1025,TRUE,Bengali,German,TRUE,TRUE
+Bangladesh,Afghanistan,44,617,28057,31302,41817,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Australia,40,67,709,2237,8943,TRUE,Bengali,English,TRUE,TRUE
+Bangladesh,Canada,228,3004,5898,2277,21945,TRUE,Bengali,English,TRUE,TRUE
+Bangladesh,Germany,179,232,364,4103,14155,TRUE,Bengali,German,TRUE,TRUE
+Bangladesh,United Kingdom,1750,397,49666,107183,163655,TRUE,Bengali,English,TRUE,TRUE
+Bangladesh,United States,360,271,6317,23029,92655,TRUE,Bengali,English,TRUE,TRUE
+Bangladesh,Iraq,6,3,2,1,0,FALSE,Bengali,Arabic,TRUE,FALSE
+Bangladesh,Jordan,4,16,60,631,6835,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Kuwait,269,467,613,33157,31310,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Lebanon,6,17,97,6423,12805,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Malaysia,100,4515,13529,37871,77856,TRUE,Bengali,Malay,TRUE,TRUE
+Bangladesh,Russian Federation,0,0,0,0,0,FALSE,Bengali,Russian,TRUE,FALSE
+Bangladesh,Saudi Arabia,4522,25466,129860,338332,366007,TRUE,Bengali,Arabic,TRUE,TRUE
+Bangladesh,Sudan,3,3,4,11,13,FALSE,Bengali,Arabic,TRUE,FALSE
+Bangladesh,Turkey,1,2,3,5,329,FALSE,Bengali,Turkish,TRUE,FALSE
+Bangladesh,France,13883,1388,861,401,23422,TRUE,Bengali,French,TRUE,TRUE
+Bangladesh,Japan,14,223,493,3855,7151,TRUE,Bengali,Japanese,TRUE,TRUE
+Bangladesh,Singapore,232,2522,6029,14569,16327,TRUE,Bengali,English,TRUE,TRUE
+China,United Arab Emirates,0,6,61,113,195,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Qatar,0,2,11,80,493,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Oman,0,0,2,6,8,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Switzerland,807,706,2114,1505,6600,TRUE,Mandarin,German,TRUE,TRUE
+China,Afghanistan,48,32,205,130,23,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Australia,13834,20051,25805,75698,162810,TRUE,Mandarin,English,TRUE,TRUE
+China,Canada,35717,62157,90391,137439,336302,TRUE,Mandarin,English,TRUE,TRUE
+China,Germany,1023,1528,1930,8527,86998,TRUE,Mandarin,German,TRUE,TRUE
+China,United Kingdom,11328,14293,17991,24817,94896,TRUE,Mandarin,English,TRUE,TRUE
+China,United States,105384,220531,320005,574049,1016412,TRUE,Mandarin,English,TRUE,TRUE
+China,Iraq,25,15,9,5,0,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Jordan,0,0,1,125,9143,TRUE,Mandarin,Arabic,TRUE,TRUE
+China,Kuwait,6,10,10,690,651,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Lebanon,0,0,0,48,330,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Malaysia,33563,411602,286332,147224,75458,TRUE,Mandarin,Malay,TRUE,TRUE
+China,Russian Federation,0,0,0,0,1493,TRUE,Mandarin,Russian,TRUE,TRUE
+China,Saudi Arabia,2,11,55,142,154,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Sudan,79,75,96,240,290,FALSE,Mandarin,Arabic,TRUE,FALSE
+China,Turkey,6,11,13,24,1475,TRUE,Mandarin,Turkish,TRUE,TRUE
+China,France,12720,1272,8523,18903,21460,TRUE,Mandarin,French,TRUE,TRUE
+China,Japan,52509,53719,52376,134823,335495,TRUE,Mandarin,Japanese,TRUE,TRUE
+China,Singapore,278798,243677,218970,261396,348383,TRUE,Mandarin,English,TRUE,TRUE
+Pakistan,United Arab Emirates,547,16366,178653,331493,569556,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Qatar,68,842,11777,13021,33685,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Oman,5110,7352,17096,49584,73001,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Switzerland,577,698,401,640,2405,TRUE,Punjabi,German,TRUE,TRUE
+Pakistan,Afghanistan,22451,23061,18490,13748,14877,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Australia,1137,1240,2437,5748,11745,TRUE,Punjabi,English,TRUE,TRUE
+Pakistan,Canada,845,11119,21835,19370,81236,TRUE,Punjabi,English,TRUE,TRUE
+Pakistan,Germany,925,1477,25532,15717,37323,TRUE,Punjabi,German,TRUE,TRUE
+Pakistan,United Kingdom,36635,143669,192672,243379,350867,TRUE,Punjabi,English,TRUE,TRUE
+Pakistan,United States,1970,8798,35058,92839,234081,TRUE,Punjabi,English,TRUE,TRUE
+Pakistan,Iraq,464,433,427,555,131,FALSE,Punjabi,Arabic,TRUE,FALSE
+Pakistan,Jordan,157,945,3586,3370,3212,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Kuwait,2604,18261,42340,65643,61987,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Lebanon,71,158,796,7798,22542,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Malaysia,1880,23236,15220,5077,10437,TRUE,Punjabi,Malay,TRUE,TRUE
+Pakistan,Russian Federation,0,0,0,0,44,FALSE,Punjabi,Russian,TRUE,FALSE
+Pakistan,Saudi Arabia,7889,44432,226578,590319,638606,TRUE,Punjabi,Arabic,TRUE,TRUE
+Pakistan,Sudan,107,102,131,446,538,FALSE,Punjabi,Arabic,TRUE,FALSE
+Pakistan,Turkey,114,207,247,447,1151,TRUE,Punjabi,Turkish,TRUE,TRUE
+Pakistan,France,43945,4394,6210,10825,74137,TRUE,Punjabi,French,TRUE,TRUE
+Pakistan,Japan,18,285,631,4767,6029,TRUE,Punjabi,Japanese,TRUE,TRUE
+Pakistan,Singapore,1463,2038,1909,2432,13233,TRUE,Punjabi,English,TRUE,TRUE
+Indonesia,United Arab Emirates,6,173,1883,3495,6005,TRUE,Malay,Arabic,TRUE,TRUE
+Indonesia,Qatar,4,59,339,1795,15127,TRUE,Malay,Arabic,TRUE,TRUE
+Indonesia,Oman,18,26,61,177,261,FALSE,Malay,Arabic,TRUE,FALSE
+Indonesia,Switzerland,292,335,203,318,1207,TRUE,Malay,German,TRUE,TRUE
+Indonesia,Afghanistan,3,0,14,13,11,FALSE,Malay,Arabic,TRUE,FALSE
+Indonesia,Australia,5746,7610,15589,31705,46488,TRUE,Malay,English,TRUE,TRUE
+Indonesia,Canada,108,1418,2784,7350,10358,TRUE,Malay,English,TRUE,TRUE
+Indonesia,Germany,1340,2891,10080,6945,11363,TRUE,Malay,German,TRUE,TRUE
+Indonesia,United Kingdom,2219,646,7580,178,55,TRUE,Malay,English,TRUE,TRUE
+Indonesia,United States,1793,1420,33144,52665,79796,TRUE,Malay,English,TRUE,TRUE
+Indonesia,Iraq,3,2,1,0,0,FALSE,Malay,Arabic,TRUE,FALSE
+Indonesia,Jordan,10,13,39,121,10282,TRUE,Malay,Arabic,TRUE,TRUE
+Indonesia,Kuwait,173,301,125,21256,20073,TRUE,Malay,Arabic,TRUE,TRUE
+Indonesia,Lebanon,4,11,23,1075,10123,TRUE,Malay,Arabic,TRUE,TRUE
+Indonesia,Malaysia,5398,56436,125723,407154,885328,TRUE,Malay,Malay,FALSE,FALSE
+Indonesia,Russian Federation,0,0,0,0,4,FALSE,Malay,Russian,TRUE,FALSE
+Indonesia,Saudi Arabia,3541,19941,101686,264929,286600,TRUE,Malay,Arabic,TRUE,TRUE
+Indonesia,Sudan,37,36,46,59,71,FALSE,Malay,Arabic,TRUE,FALSE
+Indonesia,Turkey,0,1,2,3,179,FALSE,Malay,Turkish,TRUE,FALSE
+Indonesia,France,24033,2403,1493,3578,40544,TRUE,Malay,French,TRUE,TRUE
+Indonesia,Japan,158,2564,5673,3797,19130,TRUE,Malay,Japanese,TRUE,TRUE
+Indonesia,Singapore,25945,26946,27026,37770,70008,TRUE,Malay,English,TRUE,TRUE
+Philippines,United Arab Emirates,7,224,2441,4530,7783,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Qatar,5,77,445,3403,19110,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Oman,850,1223,2845,8250,12147,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Switzerland,601,495,417,1175,5211,TRUE,Tagalog,German,TRUE,TRUE
+Philippines,Afghanistan,0,0,0,0,0,FALSE,Tagalog,Arabic,TRUE,FALSE
+Philippines,Australia,411,1135,14880,71010,102420,TRUE,Tagalog,English,TRUE,TRUE
+Philippines,Canada,2423,31892,62629,94814,233010,TRUE,Tagalog,English,TRUE,TRUE
+Philippines,Germany,753,986,1517,15153,60903,TRUE,Tagalog,German,TRUE,TRUE
+Philippines,United Kingdom,628,143,12179,22325,16,TRUE,Tagalog,English,TRUE,TRUE
+Philippines,United States,111801,246767,590421,1059379,1505820,TRUE,Tagalog,English,TRUE,TRUE
+Philippines,Iraq,10,6,4,2,0,FALSE,Tagalog,Arabic,TRUE,FALSE
+Philippines,Jordan,8,15,50,1408,3794,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Kuwait,224,390,388,27552,26017,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Lebanon,5,14,30,2038,12789,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Malaysia,418,14889,48372,168737,175740,TRUE,Tagalog,Malay,TRUE,TRUE
+Philippines,Russian Federation,0,0,0,0,6580,TRUE,Tagalog,Russian,TRUE,TRUE
+Philippines,Saudi Arabia,4569,25733,131223,341884,369850,TRUE,Tagalog,Arabic,TRUE,TRUE
+Philippines,Sudan,73,70,89,114,138,FALSE,Tagalog,Arabic,TRUE,FALSE
+Philippines,Turkey,2,4,5,10,582,FALSE,Tagalog,Turkish,TRUE,FALSE
+Philippines,France,4963,496,308,2849,8373,TRUE,Tagalog,French,TRUE,TRUE
+Philippines,Japan,455,7521,16641,44533,121274,TRUE,Tagalog,Japanese,TRUE,TRUE
+Philippines,Singapore,202,8319,4882,747,18793,TRUE,Tagalog,English,TRUE,TRUE
+Sudan,United Arab Emirates,41,1225,13377,24821,42646,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Qatar,46,72,940,1202,10376,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Oman,704,1012,2354,6827,10052,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Switzerland,23,6,30,24,644,FALSE,Arabic,German,TRUE,FALSE
+Sudan,Afghanistan,0,2,1,3,4,FALSE,Arabic,Arabic,FALSE,FALSE
+Sudan,Australia,169,461,1348,1231,4862,TRUE,Arabic,English,TRUE,TRUE
+Sudan,Canada,177,1003,1867,559,7278,TRUE,Arabic,English,TRUE,TRUE
+Sudan,Germany,32,36,32,956,749,FALSE,Arabic,German,TRUE,FALSE
+Sudan,United Kingdom,1187,137,144,61,124,TRUE,Arabic,English,TRUE,TRUE
+Sudan,United States,302,692,3430,6309,18652,TRUE,Arabic,English,TRUE,TRUE
+Sudan,Iraq,7,882,1543,2704,775,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Jordan,45,171,626,1415,2491,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Kuwait,23,1110,2857,3414,3224,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Lebanon,48,13,64,720,6944,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Malaysia,0,0,1,5,10,FALSE,Arabic,Malay,TRUE,FALSE
+Sudan,Russian Federation,0,0,0,0,0,FALSE,Arabic,Russian,TRUE,FALSE
+Sudan,Saudi Arabia,2457,13838,70566,183849,198887,TRUE,Arabic,Arabic,FALSE,FALSE
+Sudan,Sudan,0,0,0,0,0,FALSE,Arabic,Arabic,FALSE,FALSE
+Sudan,Turkey,28,52,62,111,213,FALSE,Arabic,Turkish,TRUE,FALSE
+Sudan,France,171,409,3,5,288,FALSE,Arabic,French,TRUE,FALSE
+Sudan,Japan,0,1,3,27,77,FALSE,Arabic,Japanese,TRUE,FALSE
+Sudan,Singapore,4,0,0,2,8,FALSE,Arabic,English,TRUE,FALSE
+Spain,United Arab Emirates,0,2,16,31,52,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Qatar,4,0,6,32,68,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Oman,0,0,0,3,4,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Switzerland,24340,122841,126727,126965,88369,TRUE,Spanish,German,TRUE,TRUE
+Spain,Afghanistan,0,0,0,0,0,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Australia,3698,12628,14612,14100,12541,TRUE,Spanish,English,TRUE,TRUE
+Spain,Canada,6556,13163,20171,14715,10480,TRUE,Spanish,English,TRUE,TRUE
+Spain,Germany,52278,244214,176968,131604,133635,TRUE,Spanish,German,TRUE,TRUE
+Spain,United Kingdom,24611,31623,41002,39279,60888,TRUE,Spanish,English,TRUE,TRUE
+Spain,United States,47232,68175,97039,110958,119977,TRUE,Spanish,English,TRUE,TRUE
+Spain,Iraq,1,0,0,0,0,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Jordan,83,32,22,181,301,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Kuwait,1,7,94,87,82,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Lebanon,4,0,0,19,45,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Malaysia,0,11,32,104,238,FALSE,Spanish,Malay,TRUE,FALSE
+Spain,Russian Federation,0,0,0,0,0,FALSE,Spanish,Russian,TRUE,FALSE
+Spain,Saudi Arabia,0,2,12,32,34,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Sudan,19,18,23,63,76,FALSE,Spanish,Arabic,TRUE,FALSE
+Spain,Turkey,271,173,78,24,1205,TRUE,Spanish,Turkish,TRUE,TRUE
+Spain,France,89841,736748,489332,429029,151566,TRUE,Spanish,French,TRUE,TRUE
+Spain,Japan,2,38,84,968,1523,TRUE,Spanish,Japanese,TRUE,TRUE
+Spain,Singapore,43,6,20,52,74,FALSE,Spanish,English,TRUE,FALSE
+Sri Lanka,United Arab Emirates,3,88,957,1775,3051,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Qatar,2,30,174,3996,6274,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Oman,2004,2883,6705,19447,28630,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Switzerland,573,472,398,7141,34182,TRUE,N,German,TRUE,TRUE
+Sri Lanka,Afghanistan,83,193,1422,2016,2054,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Australia,3278,6413,16361,36034,52695,TRUE,N,English,TRUE,TRUE
+Sri Lanka,Canada,929,12227,24012,10798,89335,TRUE,N,English,TRUE,TRUE
+Sri Lanka,Germany,719,940,1602,23687,58017,TRUE,N,German,TRUE,TRUE
+Sri Lanka,United Kingdom,11058,17870,26715,40818,4412,TRUE,N,English,TRUE,TRUE
+Sri Lanka,United States,343,266,6209,14865,26040,TRUE,N,English,TRUE,TRUE
+Sri Lanka,Iraq,0,0,0,0,0,FALSE,N,Arabic,TRUE,FALSE
+Sri Lanka,Jordan,2,6,20,6841,12320,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Kuwait,88,153,147,10799,10198,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Lebanon,2,6,12,2394,4199,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Malaysia,506,6280,2813,1372,2821,TRUE,N,Malay,TRUE,TRUE
+Sri Lanka,Russian Federation,0,0,0,0,0,FALSE,N,Russian,TRUE,FALSE
+Sri Lanka,Saudi Arabia,1371,7723,39383,102608,111001,TRUE,N,Arabic,TRUE,TRUE
+Sri Lanka,Sudan,19,18,24,34,40,FALSE,N,Arabic,TRUE,FALSE
+Sri Lanka,Turkey,0,0,0,0,38,FALSE,N,Turkish,TRUE,FALSE
+Sri Lanka,France,6734,673,416,11840,11361,TRUE,N,French,TRUE,TRUE
+Sri Lanka,Japan,9,139,308,1759,4563,TRUE,N,Japanese,TRUE,TRUE
+Sri Lanka,Singapore,1856,525,676,1209,3406,TRUE,N,English,TRUE,TRUE
+Myanmar,United Arab Emirates,0,0,0,0,0,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Qatar,1,0,0,1,5,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Oman,0,0,0,0,0,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Switzerland,4,3,3,25,116,FALSE,Burmese,German,TRUE,FALSE
+Myanmar,Afghanistan,194,465,908,614,673,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Australia,1425,2527,7034,7991,10821,TRUE,Burmese,English,TRUE,TRUE
+Myanmar,Canada,38,499,981,2894,3649,TRUE,Burmese,English,TRUE,TRUE
+Myanmar,Germany,5,7,12,210,419,FALSE,Burmese,German,TRUE,FALSE
+Myanmar,United Kingdom,11934,13705,12090,11378,295,TRUE,Burmese,English,TRUE,TRUE
+Myanmar,United States,711,562,13120,21588,35623,TRUE,Burmese,English,TRUE,TRUE
+Myanmar,Iraq,98,60,35,20,0,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Jordan,22,7,0,1,24,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Kuwait,0,0,0,3,3,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Lebanon,1,0,0,0,3,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Malaysia,9,348,1044,3353,10790,TRUE,Burmese,Malay,TRUE,TRUE
+Myanmar,Russian Federation,0,0,0,0,0,FALSE,Burmese,Russian,TRUE,FALSE
+Myanmar,Saudi Arabia,0,0,0,0,0,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Sudan,11,10,13,17,20,FALSE,Burmese,Arabic,TRUE,FALSE
+Myanmar,Turkey,0,1,2,3,0,FALSE,Burmese,Turkish,TRUE,FALSE
+Myanmar,France,1993,199,122,57,3362,TRUE,Burmese,French,TRUE,TRUE
+Myanmar,Japan,6,94,207,1050,4730,TRUE,Burmese,Japanese,TRUE,TRUE
+Myanmar,Singapore,470,195,202,293,431,FALSE,Burmese,English,TRUE,FALSE
+Libya,United Arab Emirates,0,17,190,352,605,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Qatar,4,1011,97,128,1000,TRUE,Arabic,Arabic,FALSE,FALSE
+Libya,Oman,4,6,14,42,62,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Switzerland,26,7,33,26,756,FALSE,Arabic,German,TRUE,FALSE
+Libya,Afghanistan,0,0,0,0,1,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Australia,75,204,597,1235,1436,TRUE,Arabic,English,TRUE,TRUE
+Libya,Canada,282,1586,2951,559,2502,TRUE,Arabic,English,TRUE,TRUE
+Libya,Germany,36,40,36,1001,831,TRUE,Arabic,German,TRUE,TRUE
+Libya,United Kingdom,28,102,6146,6973,136,TRUE,Arabic,English,TRUE,TRUE
+Libya,United States,595,1334,11113,8210,35552,TRUE,Arabic,English,TRUE,TRUE
+Libya,Iraq,51,31,18,11,0,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Jordan,12,49,180,220,961,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Kuwait,3,16,85,83,78,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Lebanon,4,189,7,77,669,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Malaysia,0,0,0,1,3,FALSE,Arabic,Malay,TRUE,FALSE
+Libya,Russian Federation,0,0,0,0,0,FALSE,Arabic,Russian,TRUE,FALSE
+Libya,Saudi Arabia,5,27,138,360,390,FALSE,Arabic,Arabic,FALSE,FALSE
+Libya,Sudan,22615,21576,27677,15689,18928,TRUE,Arabic,Arabic,FALSE,FALSE
+Libya,Turkey,211,384,459,830,3065,TRUE,Arabic,Turkish,TRUE,TRUE
+Libya,France,245,586,4,8,413,FALSE,Arabic,French,TRUE,FALSE
+Libya,Japan,0,1,3,27,77,FALSE,Arabic,Japanese,TRUE,FALSE
+Libya,Singapore,1,0,0,0,3,FALSE,Arabic,English,TRUE,FALSE
+"Iran, Islamic Rep.",United Arab Emirates,74,2210,24124,44762,76907,TRUE,Persian,Arabic,TRUE,TRUE
+"Iran, Islamic Rep.",Qatar,646,3271,6628,2984,3401,TRUE,Persian,Arabic,TRUE,TRUE
+"Iran, Islamic Rep.",Oman,11,15,36,104,152,FALSE,Persian,Arabic,TRUE,FALSE
+"Iran, Islamic Rep.",Switzerland,1049,1256,3202,1131,4226,TRUE,Persian,German,TRUE,TRUE
+"Iran, Islamic Rep.",Afghanistan,19,2,37,22,23,FALSE,Persian,Arabic,TRUE,FALSE
+"Iran, Islamic Rep.",Australia,108,180,3538,12461,18514,TRUE,Persian,English,TRUE,TRUE
+"Iran, Islamic Rep.",Canada,759,9990,19618,16084,72987,TRUE,Persian,English,TRUE,TRUE
+"Iran, Islamic Rep.",Germany,7246,13586,35952,66008,108486,TRUE,Persian,German,TRUE,TRUE
+"Iran, Islamic Rep.",United Kingdom,4640,577,28735,33236,72672,TRUE,Persian,English,TRUE,TRUE
+"Iran, Islamic Rep.",United States,7294,5761,134447,229109,294355,TRUE,Persian,English,TRUE,TRUE
+"Iran, Islamic Rep.",Iraq,31419,21455,15104,13305,1923,TRUE,Persian,Arabic,TRUE,TRUE
+"Iran, Islamic Rep.",Jordan,110,40,22,79,94,FALSE,Persian,Arabic,TRUE,FALSE
+"Iran, Islamic Rep.",Kuwait,19453,46502,75133,12408,11717,TRUE,Persian,Arabic,TRUE,TRUE
+"Iran, Islamic Rep.",Lebanon,675,612,448,1787,2276,TRUE,Persian,Arabic,TRUE,TRUE
+"Iran, Islamic Rep.",Malaysia,0,36,107,342,542,FALSE,Persian,Malay,TRUE,FALSE
+"Iran, Islamic Rep.",Russian Federation,0,0,0,0,11686,TRUE,Persian,Russian,TRUE,TRUE
+"Iran, Islamic Rep.",Saudi Arabia,35,195,995,2592,2804,TRUE,Persian,Arabic,TRUE,TRUE
+"Iran, Islamic Rep.",Sudan,8,8,10,26,32,FALSE,Persian,Arabic,TRUE,FALSE
+"Iran, Islamic Rep.",Turkey,5077,6286,6315,10341,13096,TRUE,Persian,Turkish,TRUE,TRUE
+"Iran, Islamic Rep.",France,14380,1438,12867,18844,24260,TRUE,Persian,French,TRUE,TRUE
+"Iran, Islamic Rep.",Japan,5,84,186,644,5591,TRUE,Persian,Japanese,TRUE,TRUE
+"Iran, Islamic Rep.",Singapore,12,20,52,128,948,FALSE,Persian,English,TRUE,FALSE
+Nepal,United Arab Emirates,0,8,87,162,278,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Qatar,0,3,16,83,700,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Oman,0,1,3,8,12,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Switzerland,7,5,5,60,285,FALSE,Nepali,German,TRUE,FALSE
+Nepal,Afghanistan,1346,1767,3375,3707,7169,TRUE,Nepali,Arabic,TRUE,TRUE
+Nepal,Australia,10,17,185,392,2587,TRUE,Nepali,English,TRUE,TRUE
+Nepal,Canada,12,153,300,225,1117,TRUE,Nepali,English,TRUE,TRUE
+Nepal,Germany,9,11,17,186,664,FALSE,Nepali,German,TRUE,FALSE
+Nepal,United Kingdom,9,2,22,0,43,FALSE,Nepali,English,TRUE,FALSE
+Nepal,United States,75,59,1374,2521,12321,TRUE,Nepali,English,TRUE,TRUE
+Nepal,Iraq,0,0,0,0,0,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Jordan,0,0,2,6,179,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Kuwait,8,14,14,983,929,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Lebanon,0,0,1,50,468,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Malaysia,8,334,1000,3213,1188,TRUE,Nepali,Malay,TRUE,TRUE
+Nepal,Russian Federation,0,0,0,0,6,FALSE,Nepali,Russian,TRUE,FALSE
+Nepal,Saudi Arabia,167,941,4799,12504,13526,TRUE,Nepali,Arabic,TRUE,TRUE
+Nepal,Sudan,43,41,53,75,91,FALSE,Nepali,Arabic,TRUE,FALSE
+Nepal,Turkey,0,0,0,0,11,FALSE,Nepali,Turkish,TRUE,FALSE
+Nepal,France,71,7,4,2,121,FALSE,Nepali,French,TRUE,FALSE
+Nepal,Japan,16,264,585,541,3261,TRUE,Nepali,Japanese,TRUE,TRUE
+Nepal,Singapore,484,186,186,257,1065,TRUE,Nepali,English,TRUE,TRUE
+Morocco,United Arab Emirates,3,80,876,1626,2794,TRUE,Arabic,Arabic,FALSE,FALSE
+Morocco,Qatar,37,7656,11220,1086,7876,TRUE,Arabic,Arabic,FALSE,FALSE
+Morocco,Oman,20,29,67,193,285,FALSE,Arabic,Arabic,FALSE,FALSE
+Morocco,Switzerland,8176,2255,11409,8403,5950,TRUE,Arabic,German,TRUE,TRUE
+Morocco,Afghanistan,4,19,11,21,34,FALSE,Arabic,Arabic,FALSE,FALSE
+Morocco,Australia,111,303,885,958,1173,TRUE,Arabic,English,TRUE,TRUE
+Morocco,Canada,584,3302,6145,15288,25307,TRUE,Arabic,English,TRUE,TRUE
+Morocco,Germany,9431,11846,54042,50126,84619,TRUE,Arabic,German,TRUE,TRUE
+Morocco,United Kingdom,4317,15743,5958,10364,20878,TRUE,Arabic,English,TRUE,TRUE
+Morocco,United States,1257,1943,16363,24311,40177,TRUE,Arabic,English,TRUE,TRUE
+Morocco,Iraq,576,465,403,465,99,FALSE,Arabic,Arabic,FALSE,FALSE
+Morocco,Jordan,103,66,133,255,591,FALSE,Arabic,Arabic,FALSE,FALSE
+Morocco,Kuwait,11,63,109,175,165,FALSE,Arabic,Arabic,FALSE,FALSE
+Morocco,Lebanon,39,1433,759,650,5270,TRUE,Arabic,Arabic,FALSE,FALSE
+Morocco,Malaysia,0,4,11,36,76,FALSE,Arabic,Malay,TRUE,FALSE
+Morocco,Russian Federation,0,0,0,0,1,FALSE,Arabic,Russian,TRUE,FALSE
+Morocco,Saudi Arabia,188,1060,5404,14078,15230,TRUE,Arabic,Arabic,FALSE,FALSE
+Morocco,Sudan,7917,7553,9689,5486,6619,TRUE,Arabic,Arabic,FALSE,FALSE
+Morocco,Turkey,2399,4364,5211,9424,524,TRUE,Arabic,Turkish,TRUE,TRUE
+Morocco,France,155574,294994,540819,654248,262462,TRUE,Arabic,French,TRUE,TRUE
+Morocco,Japan,0,3,8,64,183,FALSE,Arabic,Japanese,TRUE,FALSE
+Morocco,Singapore,36,2,7,18,66,FALSE,Arabic,English,TRUE,FALSE
+Georgia,United Arab Emirates,0,3,34,63,108,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Qatar,46,401,1037,449,3390,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Oman,0,0,1,3,5,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Switzerland,137,34,95,94,426,FALSE,Georgian,German,TRUE,FALSE
+Georgia,Afghanistan,0,0,0,0,0,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Australia,283,638,309,1345,307,FALSE,Georgian,English,TRUE,FALSE
+Georgia,Canada,1005,845,699,699,795,FALSE,Georgian,English,TRUE,FALSE
+Georgia,Germany,3149,3320,3324,60148,75104,FALSE,Georgian,German,TRUE,FALSE
+Georgia,United Kingdom,3324,2661,7927,4074,82,FALSE,Georgian,English,TRUE,FALSE
+Georgia,United States,10882,8942,3823,4198,14757,FALSE,Georgian,English,TRUE,FALSE
+Georgia,Iraq,1849,1141,676,411,6,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Jordan,0,0,0,12,3,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Kuwait,3,16,5,383,362,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Lebanon,48,75,70,269,2269,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Malaysia,0,0,0,0,0,FALSE,Georgian,Malay,TRUE,FALSE
+Georgia,Russian Federation,0,223261,289412,423040,628973,FALSE,Georgian,Russian,TRUE,FALSE
+Georgia,Saudi Arabia,1,6,30,79,85,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Sudan,879,839,1076,366,441,FALSE,Georgian,Arabic,TRUE,FALSE
+Georgia,Turkey,2402,2023,1470,1800,6473,FALSE,Georgian,Turkish,TRUE,FALSE
+Georgia,France,9140,914,2012,264,15420,FALSE,Georgian,French,TRUE,FALSE
+Georgia,Japan,0,0,0,5,7,FALSE,Georgian,Japanese,TRUE,FALSE
+Georgia,Singapore,0,0,0,0,0,FALSE,Georgian,English,TRUE,FALSE
+Mali,United Arab Emirates,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Qatar,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Oman,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Switzerland,316,86,407,322,204,FALSE,Malian,German,TRUE,FALSE
+Mali,Afghanistan,2,8,5,9,14,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Australia,1,3,8,8,25,FALSE,Malian,English,TRUE,FALSE
+Mali,Canada,15,87,162,52,840,FALSE,Malian,English,TRUE,FALSE
+Mali,Germany,444,498,439,418,10493,TRUE,Malian,German,TRUE,TRUE
+Mali,United Kingdom,108,395,795,59,4126,TRUE,Malian,English,TRUE,TRUE
+Mali,United States,24,55,379,412,1459,TRUE,Malian,English,TRUE,TRUE
+Mali,Iraq,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Jordan,0,0,0,1,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Kuwait,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Lebanon,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Malaysia,0,1,3,11,32,FALSE,Malian,Malay,TRUE,FALSE
+Mali,Russian Federation,0,0,0,0,0,FALSE,Malian,Russian,TRUE,FALSE
+Mali,Saudi Arabia,0,0,0,0,0,FALSE,Malian,Arabic,TRUE,FALSE
+Mali,Sudan,759,724,928,1306,1576,TRUE,Malian,Arabic,TRUE,TRUE
+Mali,Turkey,0,0,0,0,4,FALSE,Malian,Turkish,TRUE,FALSE
+Mali,France,945,2265,23162,32647,1594,TRUE,Malian,French,TRUE,TRUE
+Mali,Japan,0,0,1,9,25,FALSE,Malian,Japanese,TRUE,FALSE
+Mali,Singapore,4,0,2,6,20,FALSE,Malian,English,TRUE,FALSE
+Mexico,United Arab Emirates,0,0,10,19,33,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Qatar,0,0,1,4,15,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Oman,0,0,2,6,9,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Switzerland,238,3,1159,416,1402,TRUE,Spanish,German,TRUE,TRUE
+Mexico,Afghanistan,0,1,0,5,6,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Australia,15,5,101,751,1141,TRUE,Spanish,English,TRUE,TRUE
+Mexico,Canada,6068,64961,126413,15966,42939,TRUE,Spanish,English,TRUE,TRUE
+Mexico,Germany,392,242,205,2400,1778,TRUE,Spanish,German,TRUE,TRUE
+Mexico,United Kingdom,75,4,0,0,4,FALSE,Spanish,English,TRUE,FALSE
+Mexico,United States,610787,936424,2408502,4662233,9367910,TRUE,Spanish,English,TRUE,TRUE
+Mexico,Iraq,0,0,0,0,0,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Jordan,18,7,3,11,11,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Kuwait,0,0,1,17,16,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Lebanon,0,0,0,2,10,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Malaysia,3,124,371,1193,4064,TRUE,Spanish,Malay,TRUE,TRUE
+Mexico,Russian Federation,0,0,0,0,25104,TRUE,Spanish,Russian,TRUE,TRUE
+Mexico,Saudi Arabia,0,0,2,4,4,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Sudan,110,105,135,333,402,FALSE,Spanish,Arabic,TRUE,FALSE
+Mexico,Turkey,1,2,3,5,153,FALSE,Spanish,Turkish,TRUE,FALSE
+Mexico,France,2325,232,2921,4403,3923,TRUE,Spanish,French,TRUE,TRUE
+Mexico,Japan,2,31,69,722,1572,TRUE,Spanish,Japanese,TRUE,TRUE
+Mexico,Singapore,108,69,229,600,2183,TRUE,Spanish,English,TRUE,TRUE
+Nigeria,United Arab Emirates,0,23,250,463,796,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Qatar,0,5,26,15,573,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Oman,8,12,28,82,121,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Switzerland,191,52,260,194,1389,TRUE,English,German,TRUE,TRUE
+Nigeria,Afghanistan,7,43,26,10,68,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Australia,89,243,710,927,1735,TRUE,English,English,FALSE,FALSE
+Nigeria,Canada,1240,6964,12950,1909,10348,TRUE,English,English,FALSE,FALSE
+Nigeria,Germany,358,1825,3865,2911,15492,TRUE,English,German,TRUE,TRUE
+Nigeria,United Kingdom,15725,29796,32060,51154,106221,TRUE,English,English,FALSE,FALSE
+Nigeria,United States,3141,5885,31976,69384,141571,TRUE,English,English,FALSE,FALSE
+Nigeria,Iraq,0,0,0,0,0,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Jordan,3,29,114,15,26,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Kuwait,8,107,150,22,21,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Lebanon,0,0,2,9,383,FALSE,English,Arabic,TRUE,FALSE
+Nigeria,Malaysia,0,0,3,8,25,FALSE,English,Malay,TRUE,FALSE
+Nigeria,Russian Federation,0,0,0,0,0,FALSE,English,Russian,TRUE,FALSE
+Nigeria,Saudi Arabia,137,771,3931,10243,11081,TRUE,English,Arabic,TRUE,TRUE
+Nigeria,Sudan,10660,10171,13047,18281,22055,TRUE,English,Arabic,TRUE,TRUE
+Nigeria,Turkey,2,3,4,6,292,FALSE,English,Turkish,TRUE,FALSE
+Nigeria,France,3892,9329,2152,1919,6567,TRUE,English,French,TRUE,TRUE
+Nigeria,Japan,1,22,49,215,1404,TRUE,English,Japanese,TRUE,TRUE
+Nigeria,Singapore,3,0,2,4,16,FALSE,English,English,FALSE,FALSE
+Romania,United Arab Emirates,0,12,129,239,411,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Qatar,692,7050,9986,908,5925,TRUE,Roman,Arabic,TRUE,TRUE
+Romania,Oman,2,3,7,21,31,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Switzerland,1382,337,2576,29152,3146,TRUE,Roman,German,TRUE,TRUE
+Romania,Afghanistan,0,1,0,15,4,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Australia,4221,5459,5652,10932,12700,TRUE,Roman,English,TRUE,TRUE
+Romania,Canada,26271,22552,19193,29887,59644,TRUE,Roman,English,TRUE,TRUE
+Romania,Germany,43692,46324,74251,1144848,324085,TRUE,Roman,German,TRUE,TRUE
+Romania,United Kingdom,5317,24902,3481,4031,21684,TRUE,Roman,English,TRUE,TRUE
+Romania,United States,88406,83757,69349,101256,140085,TRUE,Roman,English,TRUE,TRUE
+Romania,Iraq,568,349,204,119,0,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Jordan,13,47,173,193,268,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Kuwait,10,54,6,71,67,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Lebanon,722,1320,675,544,3965,TRUE,Roman,Arabic,TRUE,TRUE
+Romania,Malaysia,0,6,17,56,127,FALSE,Roman,Malay,TRUE,FALSE
+Romania,Russian Federation,0,0,0,0,10,FALSE,Roman,Russian,TRUE,FALSE
+Romania,Saudi Arabia,3,18,93,244,263,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Sudan,0,0,0,0,0,FALSE,Roman,Arabic,TRUE,FALSE
+Romania,Turkey,62474,41103,19840,9324,20853,TRUE,Roman,Turkish,TRUE,TRUE
+Romania,France,73476,26556,13143,15725,123957,TRUE,Roman,French,TRUE,TRUE
+Romania,Japan,1,20,43,28,1291,TRUE,Roman,Japanese,TRUE,TRUE
+Romania,Singapore,23,3,11,28,40,FALSE,Roman,English,TRUE,FALSE
+"Egypt, Arab Rep.",United Arab Emirates,129,3850,42028,77983,133986,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Qatar,115,2405,8462,21596,56093,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Oman,2697,3880,9023,26169,38528,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Switzerland,343,94,470,349,1710,TRUE,Arabic,German,TRUE,TRUE
+"Egypt, Arab Rep.",Afghanistan,1,5,3,5,9,FALSE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Australia,15552,25414,29551,32444,34132,TRUE,Arabic,English,TRUE,TRUE
+"Egypt, Arab Rep.",Canada,1627,9164,17045,26011,35874,TRUE,Arabic,English,TRUE,TRUE
+"Egypt, Arab Rep.",Germany,2111,5224,9577,7609,14208,TRUE,Arabic,German,TRUE,TRUE
+"Egypt, Arab Rep.",United Kingdom,23283,2545,24031,25289,26975,TRUE,Arabic,English,TRUE,TRUE
+"Egypt, Arab Rep.",United States,8884,30520,52431,79861,118619,TRUE,Arabic,English,TRUE,TRUE
+"Egypt, Arab Rep.",Iraq,139,2930,5043,8787,2510,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Jordan,157,6406,25456,85785,102174,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Kuwait,1743,37212,111358,120896,114162,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Lebanon,121,450,572,12934,37538,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Malaysia,0,0,3,9,20,FALSE,Arabic,Malay,TRUE,FALSE
+"Egypt, Arab Rep.",Russian Federation,0,0,0,0,3,FALSE,Arabic,Russian,TRUE,FALSE
+"Egypt, Arab Rep.",Saudi Arabia,12110,68199,347779,906089,980205,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Sudan,2235,2132,2735,1558,1880,TRUE,Arabic,Arabic,FALSE,FALSE
+"Egypt, Arab Rep.",Turkey,1350,1530,1454,2291,779,TRUE,Arabic,Turkish,TRUE,TRUE
+"Egypt, Arab Rep.",France,3000,7189,18606,20919,5060,TRUE,Arabic,French,TRUE,TRUE
+"Egypt, Arab Rep.",Japan,1,20,45,383,1091,TRUE,Arabic,Japanese,TRUE,TRUE
+"Egypt, Arab Rep.",Singapore,9,0,2,5,17,FALSE,Arabic,English,TRUE,FALSE
